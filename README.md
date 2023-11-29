@@ -20,3 +20,9 @@ python ./server.py
     - Open the test.rest file
     - Click "Send Request" above the example HTTP requests
         - 200 Status means the request worked as intended
+
+The main branch needs user login info to be encrypted. There are comments in the code starting with 
+```
+# TODO: ...
+```
+to give hints where to add or modify the code. To see the solution, look at the solution branch.
