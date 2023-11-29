@@ -1,7 +1,28 @@
+# Sign up some users
 POST http://127.0.0.1:5000/signup HTTP/1.1
 Content-Type: application/json
 
 {
     "username": "KarenHirschy",
     "password": "Homstead"
+}
+
+###
+
+POST http://127.0.0.1:5000/signup HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "ThomasBolinger",
+    "password": "PurdueFortWayne"
+}
+
+###
+
+POST http://127.0.0.1:5000/signup HTTP/1.1
+Content-Type: application/json
+
+{
+    "username": "DualCreditStudent",
+    "password": "ComeToPFW!"
 }
