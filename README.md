@@ -18,3 +18,4 @@ python ./server.py
     - Download the [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) VSCode extension
     - Open the test.rest file
     - Click "Send Request" above the example HTTP requests
+        - 200 Status means the request worked as intended
